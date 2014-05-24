@@ -10,5 +10,5 @@ def newton(a):
 	return int(N)
 
 print(newton(a))
-
+print("Plik po modyfikacji")
 
